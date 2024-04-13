@@ -7,3 +7,5 @@ x = a+b
 #Subtraction function
 
 #Divison function
+
+#Multiplication function 
